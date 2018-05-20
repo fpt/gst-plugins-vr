@@ -12,7 +12,8 @@ const vec4 kappa = vec4(1.0, 0.22, 0.24, 0.0);
 const vec2 screen_center_left = vec2(0.25, 0.5);
 const vec2 screen_center_right = vec2(0.75, 0.5);
 
-const vec2 scale = vec2(0.1469278, 0.2350845);
+const vec2 scale = vec2(0.4, 0.8);
+// const vec2 scale = vec2(0.1469278, 0.2350845);
 const vec2 scale_in = vec2(4, 2.5);
 
 in vec2 out_uv;
